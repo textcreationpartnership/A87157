@@ -1,0 +1,325 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie on the death of the Right Honourable Robert Blake, Esq. One of the generals at sea, who departed the 7. of August 1657. on board the George near Plymouth Sound.</title>
+            <author>Harrison, George, gent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87157</idno>
+            <idno type="STC">Wing H890</idno>
+            <idno type="STC">Thomason 669.f.20[61]</idno>
+            <idno type="STC">ESTC R212052</idno>
+            <idno type="EEBO-CITATION">99870705</idno>
+            <idno type="PROQUEST">99870705</idno>
+            <idno type="VID">163477</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163477)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[61])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie on the death of the Right Honourable Robert Blake, Esq. One of the generals at sea, who departed the 7. of August 1657. on board the George near Plymouth Sound.</title>
+                  <author>Harrison, George, gent.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet the elder at the Golden Cup in Pauls Church-yard over against the Drapers, and John Bartlet the younger in Westminster Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse - "VVhat means this silence sirs? what's here becom?".</note>
+                  <note>Signed and dated at end: Geo: Harrison. Gent. On board the Dunbar in the Downs, Aug. 11. 1657.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>L Copy stained with loss of text.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Blake, Robert, 1599-1657 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:163477:1" rendition="simple:additions"/>
+            <head>AN ELEGIE ON THE DEATH OF THE RIGHT HONOURABLE <hi>ROBERT BLAKE,</hi> Eſq. One of the GENERALS at Sea, who departed the 7. of <hi>Auguſt</hi> 1657. on board the <hi>George</hi> near <hi>Plymouth</hi> Sound.</head>
+            <lg>
+               <l>WHat means this ſilence Sirs? what's here becom?</l>
+               <l>Some heavy tidings ſure hath ſtruck you dumb.</l>
+               <l>Light griefs make teares diſtill out from the Eye,</l>
+               <l>When great ones dull, and often ſtupifie.</l>
+               <l>What is there none dare ſpeak? Alas I feare;</l>
+               <l>It is too harſh? to ſound in Engliſh Eare.</l>
+               <l>Muſt my miſgiving ſoul divine the cauſe</l>
+               <l>Of your ſad Aſpects? Stay, for I muſt pauſe:</l>
+               <l>Is he that over <hi>Neptune</hi> once bore ſway,</l>
+               <l>And 'gainſt our Foes did often get the day:</l>
+               <l>Is he that was to Sea-men their delight,</l>
+               <l>And lead them on moſt daringly to fight:</l>
+               <l>Is he whoſe face A Terror ſtrooke; whoſe name</l>
+               <l>The darling was of Fortune and of Fame:</l>
+               <l>Is he that by example ſpent his breath,</l>
+               <l>And ſhew'd a new way how to out-face Death:</l>
+               <l>He that ſtrook Terror whereſoere he came,</l>
+               <l>And made his Foes to tremble at his Name:</l>
+               <l>Speak, is it true? Is noble BLAKE then gone,</l>
+               <l>And left us here in dark oblivion?</l>
+               <l>Is his Seraphick Soul then fled away,</l>
+               <l>Leaving nought but his Aſhes and his Clay?</l>
+               <l>Your ſilence ſeems to ſay ſo: Is he dead?</l>
+               <l>Sure then your griefs cannot be numbered.</l>
+               <l>I ſee the laſting'ſt Monuments muſt bend;</l>
+               <l>All things muſt have their Period and end.</l>
+               <l>His brave Example in our Infant-dayes</l>
+               <l>Of War, when he alone deſerv'd the Bayes;</l>
+               <l>When by his virtue onely <hi>Lime</hi> held out</l>
+               <l>Againſt a potent Foe both bold and ſtout.</l>
+               <l>
+                  <hi>Taunton</hi> her liberty to him doth owe,</l>
+               <l>His Bounty onely did on her beſtow.</l>
+               <l>
+                  <hi>Dunſter</hi> that pleaſant ſeat, whoſe lofty Tow'rs</l>
+               <l>E'ne peirc't the Clouds, did ſtoop unto his Powr's:</l>
+               <l>
+                  <hi>Bridgewater</hi> gave him birth, for that fam'd more,</l>
+               <l>And Honoured, then ere ſhe was before.</l>
+               <l>His Enemies did oft amaz'd ſtand</l>
+               <l>When he held up his ſure dead-doing hand;</l>
+               <l>And death grew pale to ſee himſelf out-done</l>
+               <l>By one of Mortall race. The ſetting Sun</l>
+               <l>Oft peep'd abroad, as oft did bluſh to ſee</l>
+               <l>
+                  <hi>Neptune</hi> forc't weare his ſanguine livery.</l>
+               <l>Though Death did often ſtrive him to affright</l>
+               <l>Yet he out-lookt him, made him mad with ſpight,</l>
+               <l>And when with open force he durſt not ſeiſe him,</l>
+               <l>In a Conſumption did at laſt ſurpriſe him.</l>
+               <l>His head a mint of Reaſon was, when he</l>
+               <l>Once ſpake he uſed no Tautologie.</l>
+               <l>His Arguments Dilemma's were, which he</l>
+               <l>Confirm'd b' Example out of Hiſtory:</l>
+               <l>His own Experience was ſo great, that all</l>
+               <l>With one conſent ſtill cloſ'd In generall:</l>
+               <l>And for his Intellectualls ſo rare,</l>
+               <l>That few now living could with him compare.</l>
+               <l>A man that alwayes valued his word;</l>
+               <l>Bright Honour ever ſhining on his Sword:</l>
+               <l>To vice and baſeneſſe ever moſt ſevere,</l>
+               <l>And to his friends and goodneſſe very deare:</l>
+               <l>From affectation free, and what was more,</l>
+               <l>A Zealous Enemy of the Scarlet Whore;</l>
+               <l>Whoſe able Judgment in a hot diſpute,</l>
+               <l>Two of her ſtouteſt Champions did confute;</l>
+               <l>Deſerving to be (by their own confeſſion)</l>
+               <l>His Countryes Honour calld; twas their Expreſſion.</l>
+               <l>No Charming <hi>Syren</hi> could his Ears entice,</l>
+               <l>Nor tempting <hi>Venus</hi> him allure to Vice;</l>
+               <l>Nor <hi>Cleophis</hi> with her bewiching Eyes</l>
+               <l>Ere put a period to his Victories.</l>
+               <l>War was his Miſtris, he did her embrace,</l>
+               <l>She hath a Princely and Majeſtick face;</l>
+               <l>She nurſt him, bred him, made him her delight,</l>
+               <l>Conducted him in many a dreadfull fight;</l>
+               <l>He was her darling, ſhe in him took pleaſure,</l>
+               <l>He was her chiefeſt and her onely Treaſure.</l>
+               <l>Though Threats on Threats, and promiſes ſucceeded</l>
+               <l>From Royalty, yet he them never heeded.</l>
+               <l>Threats could not drive him, nor Allurements high</l>
+               <l>Ere make him part with his Integrity.</l>
+               <l>No Sceptick in Religion was he found,</l>
+               <l>His head and heart and Principles were ſound.</l>
+               <l>Conſtant beyond compare, and to his Nation</l>
+               <l>A faithfull ſervant in his Generation:</l>
+               <l>No Faction would he heed, nor Plots contrive,</l>
+               <l>Nor did he wiſh that ever they ſhould thrive;</l>
+               <l>And midſt our various changes ſtill kept free,</l>
+               <l>Hating cold Dullneſſe, baſe Neutrality.</l>
+               <l>Riches he valued not, nor them Reſpect,</l>
+               <l>Nor glorious Titles ever did affect.</l>
+               <l>Armes and the Arts did wondrouſly comply,</l>
+               <l>In him to make A perfect Harmony;</l>
+               <l>In both Admir'd, in both he did Excell,</l>
+               <l>And liv'd and dy'd without a Parallell.</l>
+               <l>His Valour was diffuſed, and now dead,</l>
+               <l>He the Tenth Worthy may be reckoned;</l>
+               <l>The Civick, Murall, and the Navall Crown</l>
+               <l>He has deſerv'd, all due to his Renown.</l>
+               <l>In peace he was a <hi>Seneca,</hi> In war</l>
+               <l>He out-did <hi>Mars,</hi> ſtill prov'd a Conqueror.</l>
+               <l>No chamber-Muſick ſqueaking in the night,</l>
+               <l>Nor Noyce of Vialls did him much delight;</l>
+               <l>The deep-mouth'd Canons thundring in his Eares,</l>
+               <l>Was unto him the Muſick of the Spheres:</l>
+               <l>Thoſe bore the Baſe, the whiſtling bullets they</l>
+               <l>Made up the Treble on a fighting day;</l>
+               <l>Small ſhot Diviſion play'd, whoſe nimble Motion</l>
+               <l>Made many a Soul drink up a ſleepy Potion:</l>
+               <l>This was the Muſick moſt did cheer his ſpirit,</l>
+               <l>And made him Juſtly ſo much prayſe to merit;</l>
+               <l>His Noble, Lively, Active, vigorous fire,</l>
+               <l>Ne're quencht in him untill he did Expire.</l>
+               <l>Oh! How my ſoul bemones my Countryes loſſe,</l>
+               <l>Her onely Genius gone, Oh tis a Croſſe</l>
+               <l>Beyond compare, now hardly felt, but when</l>
+               <l>Our Sins a war on us ſhall bring agen.</l>
+               <l>Who then ſhall ſtand i'th Gap? His Noble Arme</l>
+               <l>Did quaile our home-bred, Forreign foes diſarme.</l>
+               <l>May thoſe ſucceed <hi>Eliſha-</hi>like Inherit</l>
+               <l>A double portion of <hi>Elijahs</hi> ſpirit:</l>
+               <l>The <hi>Hollanders</hi> in Bloudy lines can write</l>
+               <l>What harms he did them by the God of might;</l>
+               <l>The <hi>Portugalls,</hi> as every one doth know,</l>
+               <l>Their Peace, their Plenty and their Traffique owe</l>
+               <l>Unto his worth: when <hi>Rupert</hi> he was fain</l>
+               <l>To face about and get him home again;</l>
+               <l>Loth to appear with his poor Glow-worme light,</l>
+               <l>When ſuch a Sun as this appear'd in ſight.</l>
+               <l>The Barbarous Pirates upon <hi>Tunis</hi> Strand</l>
+               <l>Felt the effects of his revenging hand.</l>
+               <l>The <hi>Spaniards</hi> lately fear'd the name of <hi>Blake,</hi>
+               </l>
+               <l>As once their children did the name of <hi>Drake:</hi>
+               </l>
+               <l>What ſhall I ſay? His laſt attempt ſo bold</l>
+               <l>At the <hi>Canaries,</hi> It cannot be told</l>
+               <l>Unto It's worth; That done with gallantry</l>
+               <l>He makes his <hi>Exit</hi> with a <hi>Plaudite;</hi>
+               </l>
+               <l>And having done to <hi>Spaine</hi> abundant Harms,</l>
+               <l>Comes home in Peace and dyes free from Allarms:</l>
+               <l>The <hi>George</hi> the firſt Ship bore him out, and then</l>
+               <l>The mournfull ſhe that brought him back agen.</l>
+               <l>Oh that ſome <hi>Virgil,</hi> fo: his greater Glory,</l>
+               <l>Would pleaſe to writehis Everlaſting Story;</l>
+               <l>Or elſe ſome <hi>Homer</hi> bravely to reherſe</l>
+               <l>His glorious Actions in Heroick Verſe;</l>
+               <l>For me to Limne the Noble Acts h'as done,</l>
+               <l>Is but to light a Candle to the Sun:</l>
+               <l>That task I'le leave toſome more able hand</l>
+               <l>That view'd his Action both by Sea and Land;</l>
+               <l>And though in blacks: may not mourn his End,</l>
+               <l>Yet none ſhal more benone him as a friend.</l>
+               <l>Or'e Death he is Victorious, and he</l>
+               <l>Bequeaths it us as his laſt Legacy.</l>
+            </lg>
+            <lg>
+               <l>Now unto God be Everlaſting prayſe,</l>
+               <l>That thus in peace hath finiſhed his dayes:</l>
+               <l>And ſince his fatall ſhred is quite Spun out,</l>
+               <l>Lets draw the Curtains, put the Candles out;</l>
+               <l>And let us leave him to his ſilent Tomb,</l>
+               <l>Free from all troubles, cloſ'd up in the womb</l>
+               <l>Of Mother Earth let him in quiet reſt,</l>
+               <l>Till he Enjoy the choyceſt and the beſt.</l>
+               <l>Of his deſires, in Glory for to ſee</l>
+               <l>His Saviour Chriſt to all Eternity.</l>
+            </lg>
+            <div type="acrostic">
+               <head>Epitaph Acroſtick.</head>
+               <lg>
+                  <l>Reſt here in Peace the ſacred Duſt</l>
+                  <l>Of valiant <hi>BLAKE,</hi> the Good, the Juſt,</l>
+                  <l>Belov'd of all on every ſide;</l>
+                  <l>Englands Honour, on <gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e her Pride,</l>
+                  <l>Romes Terror, Dutch Annoyer,</l>
+                  <l>Truths defender, <hi>Spains</hi> deſtroyer.</l>
+               </lg>
+               <lg>
+                  <l>Bring no dry Eyes unto this place:</l>
+                  <l>Let not be ſeen in any caſe</l>
+                  <l>A ſmiling or an unſad face.</l>
+                  <l>Kindle deſires in Every breſt</l>
+                  <l>Eternally with him to test.</l>
+               </lg>
+               <closer>
+                  <dateline>On board the <hi>Dunbar</hi> in the Downs, <date>Aug. 11. 1657.</date>
+                  </dateline>
+                  <signed>
+                     <hi>By</hi> Geo: Harriſon. <hi>Gent.</hi>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>John Bartlet</hi> the elder at the Golden Cup in <hi>Pauls</hi> Church-yard over againſt the Drapers, and <hi>John Bartlet</hi> the younger in <hi>Weſtminſter</hi> Hall. 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
